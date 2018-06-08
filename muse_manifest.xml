@@ -1,28 +1,28 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="buildteaminc.com" resolutions="1x" timestamp="1528166386308">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="buildteaminc.com" resolutions="1x" timestamp="1528456566173">
   <folder name="css">
     <file name="site_global.css" crc="3872606453"/>
-    <file name="master_a-p_gina-maestra.css" crc="506420638" ref="basements:about:misc:pools:portfolio:index:decks:services:kitchens:bathrooms:contact"/>
-    <file name="basements.css" crc="269920218" ref="basements"/>
+    <file name="master_a-p_gina-maestra.css" crc="3904860922" ref="basements:about:misc:pools:portfolio:index:decks:services:kitchens:bathrooms:contact"/>
+    <file name="basements.css" crc="423186918" ref="basements"/>
     <file name="iefonts_basements.css" crc="4250719381" ref="basements"/>
-    <file name="about.css" crc="4014425085" ref="about"/>
+    <file name="about.css" crc="4009014669" ref="about"/>
     <file name="iefonts_about.css" crc="74267474" ref="about"/>
-    <file name="misc.css" crc="4164457332" ref="misc"/>
+    <file name="misc.css" crc="3765877596" ref="misc"/>
     <file name="iefonts_misc.css" crc="4245058780" ref="misc"/>
-    <file name="pools.css" crc="4010496271" ref="pools"/>
+    <file name="pools.css" crc="3821481293" ref="pools"/>
     <file name="iefonts_pools.css" crc="3767529962" ref="pools"/>
-    <file name="portfolio.css" crc="3761167245" ref="portfolio"/>
+    <file name="portfolio.css" crc="137659182" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="4007327573" ref="portfolio"/>
-    <file name="index.css" crc="171341330" ref="index"/>
-    <file name="iefonts_index.css" crc="3937719057" ref="index"/>
-    <file name="decks.css" crc="4002627249" ref="decks"/>
+    <file name="index.css" crc="3848365795" ref="index"/>
+    <file name="iefonts_index.css" crc="449589790" ref="index"/>
+    <file name="decks.css" crc="36488276" ref="decks"/>
     <file name="iefonts_decks.css" crc="438222539" ref="decks"/>
-    <file name="services.css" crc="4028715555" ref="services"/>
-    <file name="iefonts_services.css" crc="357964311" ref="services"/>
-    <file name="kitchens.css" crc="3883174684" ref="kitchens"/>
+    <file name="services.css" crc="3993301370" ref="services"/>
+    <file name="iefonts_services.css" crc="345864191" ref="services"/>
+    <file name="kitchens.css" crc="81302202" ref="kitchens"/>
     <file name="iefonts_kitchens.css" crc="3817590636" ref="kitchens"/>
-    <file name="bathrooms.css" crc="417487989" ref="bathrooms"/>
+    <file name="bathrooms.css" crc="4202566705" ref="bathrooms"/>
     <file name="iefonts_bathrooms.css" crc="4092064069" ref="bathrooms"/>
-    <file name="contact.css" crc="3838475657" ref="contact"/>
+    <file name="contact.css" crc="110987636" ref="contact"/>
     <file name="iefonts_contact.css" crc="276550757" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -70,17 +70,17 @@
     </file>
     <file name="u10002-6.png" crc="312115405" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:phone>decks:phone>pools:phone>kitchens:phone>basements:phone>bathrooms:phone>misc"/>
     <file name="phone-crop-u22409.png" crc="4126979104" seo="true" ref="phone>index:phone>about:phone>services:phone>portfolio:phone>contact:phone>decks:phone>pools:phone>kitchens:phone>basements:phone>bathrooms:phone>misc">
-      <caption webpage="bathrooms" alt=""/>
-      <caption webpage="misc" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="portfolio" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="services" alt=""/>
       <caption webpage="pools" alt=""/>
-      <caption webpage="basements" alt=""/>
+      <caption webpage="bathrooms" alt=""/>
       <caption webpage="about" alt=""/>
-      <caption webpage="decks" alt=""/>
+      <caption webpage="contact" alt=""/>
       <caption webpage="kitchens" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="basements" alt=""/>
+      <caption webpage="decks" alt=""/>
     </file>
     <file name="acd kit fin1-u16767-fr.jpg" crc="3820981469" ref="phone>index:tablet>index:index"/>
     <file name="025-u16768-fr.jpg" crc="292362972" seo="true" ref="phone>index:tablet>index:tablet>portfolio:portfolio:index">
@@ -826,28 +826,28 @@
     </file>
     <file name="u22375-7.png" crc="88323859" ref="tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:tablet>decks:tablet>pools:tablet>kitchens:tablet>basemants:tablet>bathrooms:tablet>misc"/>
     <file name="build-team_01.png" crc="430010415" seo="true" ref="tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:tablet>decks:tablet>pools:tablet>kitchens:tablet>basemants:tablet>bathrooms:tablet>misc:about:services:portfolio:contact:index:decks:pools:kitchens:basements:bathrooms:misc">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="pools" alt=""/>
+      <caption webpage="pools" alt=""/>
       <caption webpage="bathrooms" alt=""/>
       <caption webpage="bathrooms" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
       <caption webpage="basemants" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
-      <caption webpage="services" alt=""/>
-      <caption webpage="services" alt=""/>
+      <caption webpage="kitchens" alt=""/>
+      <caption webpage="kitchens" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="pools" alt=""/>
-      <caption webpage="pools" alt=""/>
       <caption webpage="basements" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="misc" alt=""/>
-      <caption webpage="misc" alt=""/>
       <caption webpage="decks" alt=""/>
       <caption webpage="decks" alt=""/>
-      <caption webpage="kitchens" alt=""/>
-      <caption webpage="kitchens" alt=""/>
     </file>
     <file name="galaxy phone not sd card 1689856x481.jpg" crc="3822020934" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
@@ -863,13 +863,13 @@
     </file>
     <file name="u22380-4.png" crc="4101073252" ref="tablet>index:tablet>about:tablet>services:tablet>portfolio:tablet>contact:tablet>decks:tablet>pools:tablet>kitchens:tablet>basemants:tablet>bathrooms:tablet>misc"/>
     <file name="214x214.gif" crc="4015465708" ref="tablet>about:tablet>services">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
       <caption webpage="services" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
     </file>
     <file name="zoom.png" crc="230271239" ref="tablet>about">
       <caption webpage="about" alt=""/>
@@ -878,16 +878,16 @@
       <caption webpage="about" alt=""/>
     </file>
     <file name="1111 028.jpg" crc="3769179771" seo="true" ref="tablet>portfolio:tablet>misc:portfolio:misc">
-      <caption webpage="misc" alt=""/>
-      <caption webpage="misc" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
     <file name="2011 incred phone pics 300.jpg" crc="103229397" seo="true" ref="tablet>portfolio:tablet>misc:portfolio:misc">
-      <caption webpage="misc" alt=""/>
-      <caption webpage="misc" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
     <file name="android data 2014 march 23 413.jpg" crc="223039807" seo="true" ref="tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -910,10 +910,10 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dscf0427 (4).jpg" crc="369883287" seo="true" ref="tablet>portfolio:tablet>misc:portfolio:misc">
-      <caption webpage="misc" alt=""/>
-      <caption webpage="misc" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
     <file name="dscf0215 (6).jpg" crc="279517241" seo="true" ref="tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -927,10 +927,10 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="dscf0174.jpg" crc="3992524370" seo="true" ref="tablet>portfolio:tablet>misc:portfolio:misc">
-      <caption webpage="misc" alt=""/>
-      <caption webpage="misc" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="misc" alt=""/>
+      <caption webpage="misc" alt=""/>
     </file>
     <file name="dscf0255.jpg" crc="3833905029" seo="true" ref="tablet>portfolio:portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -2223,89 +2223,89 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-p_gina-maestra.css" crc="3767482056" ref="tablet>decks:tablet>about:tablet>index:tablet>pools:tablet>misc:tablet>portfolio:tablet>services:tablet>contact:tablet>bathrooms:tablet>kitchens:tablet>basemants"/>
-      <file name="decks.css" crc="415998713" ref="tablet>decks"/>
+      <file name="master_a-p_gina-maestra.css" crc="416703168" ref="tablet>decks:tablet>about:tablet>index:tablet>pools:tablet>misc:tablet>portfolio:tablet>services:tablet>contact:tablet>bathrooms:tablet>kitchens:tablet>basemants"/>
+      <file name="decks.css" crc="3871553813" ref="tablet>decks"/>
       <file name="iefonts_decks.css" crc="3845611015" ref="tablet>decks"/>
-      <file name="about.css" crc="18953609" ref="tablet>about"/>
+      <file name="about.css" crc="231274258" ref="tablet>about"/>
       <file name="iefonts_about.css" crc="3961619517" ref="tablet>about"/>
-      <file name="index.css" crc="145518691" ref="tablet>index"/>
+      <file name="index.css" crc="478263206" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4062751307" ref="tablet>index"/>
-      <file name="pools.css" crc="4262573238" ref="tablet>pools"/>
+      <file name="pools.css" crc="3983292144" ref="tablet>pools"/>
       <file name="iefonts_pools.css" crc="372536314" ref="tablet>pools"/>
-      <file name="misc.css" crc="239109968" ref="tablet>misc"/>
+      <file name="misc.css" crc="3931652331" ref="tablet>misc"/>
       <file name="iefonts_misc.css" crc="123351051" ref="tablet>misc"/>
-      <file name="portfolio.css" crc="194636041" ref="tablet>portfolio"/>
+      <file name="portfolio.css" crc="4023811308" ref="tablet>portfolio"/>
       <file name="iefonts_portfolio.css" crc="3912921201" ref="tablet>portfolio"/>
       <file name="services.css" crc="157582267" ref="tablet>services"/>
       <file name="iefonts_services.css" crc="4221119766" ref="tablet>services"/>
-      <file name="contact.css" crc="3854143040" ref="tablet>contact"/>
+      <file name="contact.css" crc="106591749" ref="tablet>contact"/>
       <file name="iefonts_contact.css" crc="276837081" ref="tablet>contact"/>
-      <file name="bathrooms.css" crc="4279721037" ref="tablet>bathrooms"/>
+      <file name="bathrooms.css" crc="63807817" ref="tablet>bathrooms"/>
       <file name="iefonts_bathrooms.css" crc="3834136313" ref="tablet>bathrooms"/>
-      <file name="kitchens.css" crc="3823311894" ref="tablet>kitchens"/>
+      <file name="kitchens.css" crc="133946285" ref="tablet>kitchens"/>
       <file name="iefonts_kitchens.css" crc="261587988" ref="tablet>kitchens"/>
-      <file name="basemants.css" crc="4244200127" ref="tablet>basemants"/>
+      <file name="basemants.css" crc="49398099" ref="tablet>basemants"/>
       <file name="iefonts_basemants.css" crc="276699120" ref="tablet>basemants"/>
     </folder>
-    <file name="index.html" crc="3972846194" seo="true" mt="1528160056902" redirect="true"/>
-    <file name="about.html" crc="13348171" seo="true" mt="1528160057224" redirect="true"/>
-    <file name="services.html" crc="3777877822" seo="true" mt="1528160057492" redirect="true"/>
-    <file name="portfolio.html" crc="383408414" seo="true" mt="1528160057664" redirect="true"/>
-    <file name="contact.html" crc="4059648710" seo="true" mt="1528160057812" redirect="true"/>
-    <file name="decks.html" crc="4110630991" seo="true" mt="1528160057917" redirect="true"/>
-    <file name="pools.html" crc="418374735" seo="true" mt="1528160058043" redirect="true"/>
-    <file name="kitchens.html" crc="3800530727" seo="true" mt="1528160058194" redirect="true"/>
-    <file name="basemants.html" crc="282726203" seo="true" mt="1528160058321" redirect="true"/>
-    <file name="bathrooms.html" crc="213298244" seo="true" mt="1528160058440" redirect="true"/>
-    <file name="misc.html" crc="4230686716" seo="true" mt="1528160058588" redirect="true"/>
+    <file name="index.html" crc="4155889654" seo="true" mt="1528328364518" redirect="true"/>
+    <file name="about.html" crc="344047895" seo="true" mt="1528328432674" redirect="true"/>
+    <file name="services.html" crc="361699326" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="portfolio.html" crc="3973064777" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="contact.html" crc="307692979" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="decks.html" crc="4068407940" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="pools.html" crc="340931895" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="kitchens.html" crc="199642690" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="basemants.html" crc="152356006" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="bathrooms.html" crc="3867307190" seo="true" mt="1528328341351" redirect="true"/>
+    <file name="misc.html" crc="269188239" seo="true" mt="1528328341351" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-p_gina-maestra.css" crc="287091625" ref="phone>portfolio:phone>bathrooms:phone>decks:phone>basements:phone>services:phone>misc:phone>contact:phone>kitchens:phone>pools:phone>index:phone>about"/>
-      <file name="portfolio.css" crc="169109003" ref="phone>portfolio"/>
+      <file name="master_a-p_gina-maestra.css" crc="234120883" ref="phone>portfolio:phone>bathrooms:phone>decks:phone>basements:phone>services:phone>misc:phone>contact:phone>kitchens:phone>pools:phone>index:phone>about"/>
+      <file name="portfolio.css" crc="170085889" ref="phone>portfolio"/>
       <file name="iefonts_portfolio.css" crc="4244700593" ref="phone>portfolio"/>
-      <file name="bathrooms.css" crc="3927903212" ref="phone>bathrooms"/>
+      <file name="bathrooms.css" crc="70873671" ref="phone>bathrooms"/>
       <file name="iefonts_bathrooms.css" crc="4279149778" ref="phone>bathrooms"/>
-      <file name="decks.css" crc="435332164" ref="phone>decks"/>
+      <file name="decks.css" crc="4157922799" ref="phone>decks"/>
       <file name="iefonts_decks.css" crc="3909612661" ref="phone>decks"/>
-      <file name="basements.css" crc="186488001" ref="phone>basements"/>
+      <file name="basements.css" crc="3845909866" ref="phone>basements"/>
       <file name="iefonts_basements.css" crc="37919009" ref="phone>basements"/>
       <file name="services.css" crc="149928918" ref="phone>services"/>
       <file name="iefonts_services.css" crc="493120638" ref="phone>services"/>
-      <file name="misc.css" crc="55708087" ref="phone>misc"/>
+      <file name="misc.css" crc="3983831068" ref="phone>misc"/>
       <file name="iefonts_misc.css" crc="4233244226" ref="phone>misc"/>
-      <file name="contact.css" crc="3761493163" ref="phone>contact"/>
+      <file name="contact.css" crc="226167488" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="4084577737" ref="phone>contact"/>
-      <file name="kitchens.css" crc="3986525395" ref="phone>kitchens"/>
+      <file name="kitchens.css" crc="402949750" ref="phone>kitchens"/>
       <file name="iefonts_kitchens.css" crc="534445834" ref="phone>kitchens"/>
-      <file name="pools.css" crc="4067082399" ref="phone>pools"/>
+      <file name="pools.css" crc="506711262" ref="phone>pools"/>
       <file name="iefonts_pools.css" crc="4227946899" ref="phone>pools"/>
-      <file name="index.css" crc="102952982" ref="phone>index"/>
+      <file name="index.css" crc="77574969" ref="phone>index"/>
       <file name="iefonts_index.css" crc="319662044" ref="phone>index"/>
-      <file name="about.css" crc="524135553" ref="phone>about"/>
+      <file name="about.css" crc="238601055" ref="phone>about"/>
       <file name="iefonts_about.css" crc="3975217702" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="3759342412" seo="true" mt="1528160059192" redirect="true"/>
-    <file name="about.html" crc="4243755192" seo="true" mt="1528160059471" redirect="true"/>
-    <file name="services.html" crc="4080629110" seo="true" mt="1528160059822" redirect="true"/>
-    <file name="portfolio.html" crc="194777905" seo="true" mt="1528160059921" redirect="true"/>
-    <file name="contact.html" crc="364653330" seo="true" mt="1528160060112" redirect="true"/>
-    <file name="decks.html" crc="4066751511" seo="true" mt="1528160060237" redirect="true"/>
-    <file name="pools.html" crc="4181146946" seo="true" mt="1528160060358" redirect="true"/>
-    <file name="kitchens.html" crc="3897516851" seo="true" mt="1528160060567" redirect="true"/>
-    <file name="basements.html" crc="4208260278" seo="true" mt="1528160060782" redirect="true"/>
-    <file name="bathrooms.html" crc="4162356284" seo="true" mt="1528160060896" redirect="true"/>
-    <file name="misc.html" crc="458199533" seo="true" mt="1528160061160" redirect="true"/>
+    <file name="index.html" crc="312385719" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="about.html" crc="4086894975" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="services.html" crc="347406365" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="portfolio.html" crc="4047075561" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="contact.html" crc="3869909077" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="decks.html" crc="498068366" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="pools.html" crc="3993446208" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="kitchens.html" crc="494347702" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="basements.html" crc="153226700" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="bathrooms.html" crc="3790150294" seo="true" mt="1528456021560" redirect="true"/>
+    <file name="misc.html" crc="452885381" seo="true" mt="1528456021560" redirect="true"/>
   </folder>
-  <file name="about.html" crc="4294204550" seo="true" mt="1528160055028" redirect="true"/>
-  <file name="services.html" crc="520442831" seo="true" mt="1528160055271" redirect="true"/>
-  <file name="portfolio.html" crc="3824668295" seo="true" mt="1528160055522" redirect="true"/>
-  <file name="contact.html" crc="3987254756" seo="true" mt="1528160055668" redirect="true"/>
-  <file name="index.html" crc="245538659" seo="true" mt="1528160054742" redirect="true"/>
-  <file name="decks.html" crc="4262305678" seo="true" mt="1528160055982" redirect="true"/>
-  <file name="pools.html" crc="416182885" seo="true" mt="1528160056141" redirect="true"/>
-  <file name="kitchens.html" crc="530734582" seo="true" mt="1528160056276" redirect="true"/>
-  <file name="basements.html" crc="4059755410" seo="true" mt="1528160056423" redirect="true"/>
-  <file name="bathrooms.html" crc="4278560482" seo="true" mt="1528160056548" redirect="true"/>
-  <file name="misc.html" crc="515593889" seo="true" mt="1528160056766" redirect="true"/>
+  <file name="about.html" crc="3909813020" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="services.html" crc="3918834009" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="portfolio.html" crc="3974259074" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="contact.html" crc="4136428631" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="index.html" crc="38259704" seo="true" mt="1528331430297" redirect="true"/>
+  <file name="decks.html" crc="3787029960" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="pools.html" crc="4219840324" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="kitchens.html" crc="3919506466" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="basements.html" crc="4125597907" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="bathrooms.html" crc="4155720658" seo="true" mt="1528331430072" redirect="true"/>
+  <file name="misc.html" crc="3806381732" seo="true" mt="1528331430072" redirect="true"/>
 </manifest>
